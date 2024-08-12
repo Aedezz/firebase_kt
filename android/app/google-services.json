@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "655928377445",
+    "project_id": "cihuy12-3330b",
+    "storage_bucket": "cihuy12-3330b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655928377445:android:1fc244b2d1862232a5868c",
+        "android_client_info": {
+          "package_name": "com.example.firebase_kt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt3UDca5ERsXFq2a_gDBD6uqu31b-viSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
